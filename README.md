@@ -1,4 +1,4 @@
-<img src="img/github-header-banner (1).png" width="100%" alt="Header Banner">
+<img src="img/github-header-banner (2).png" width="100%" alt="Header Banner">
 
 I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. I enjoy building practical software, designing solid database architectures, and organizing campus tech initiatives. Most of my time is spent coding, exploring game development, or managing events as a coordinator at HMTI (Informatics Student Association).
 
