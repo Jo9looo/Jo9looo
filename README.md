@@ -44,8 +44,11 @@ Feel free to reach out if you want to collaborate on a project, talk about datab
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Iq.satriahtm)
 
+### 📈 My Coding Activity
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jo9looo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 📊 My GitHub Stats
-![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo9looo&theme=dracula)
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo9looo&theme=transparent)
 
 <!--
 **Jo9looo/Jo9looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
