@@ -1,30 +1,45 @@
 ## Hi there 👋, I'm Muhammad Iqbal Satria Hutama
 
-I am an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang with a strong passion for problem-solving through code, designing data architectures, and creating intuitive interfaces. Beyond my academic routines, I am also actively involved as a coordinator in HMTI (Informatics Student Association).
+I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. I enjoy building practical software, designing solid database architectures, and organizing campus tech initiatives. Most of my time is spent coding, exploring game development, or managing events as a coordinator at HMTI (Informatics Student Association).
 
-### 🚀 Specializations & Core Skills
+### 🚀 What I Do
 
-*   **Web & Software Development:** Building backend and frontend functionalities using PHP (CodeIgniter 4 and Native), JavaScript, TypeScript, Go, Python, and Java.
-*   **Database Engineering:** Designing efficient relational database architectures, including stored procedures, triggers, and Entity-Relationship Diagrams (ERDs) using MySQL and MariaDB.
-*   **UI/UX & Graphic Design:** Translating ideas into visuals using Figma—from web prototyping and logo creation to designing branding assets.
-*   **Game Development:** Exploring game development and interactive logic using Unity, Godot, and C#.
+*   **Web & Software Development:** I build backend logic and frontend interfaces using JavaScript, TypeScript, PHP (Native & CI4), Go, Python, and Java.
+*   **Database Engineering:** I design relational databases, write stored procedures, and create ERDs using MySQL and MariaDB.
+*   **UI/UX & Design:** I use Figma for web prototyping, logo creation, and visual branding.
+*   **Game Development:** Currently exploring interactive logic and game mechanics using Unity, Godot, and C#.
 
-### 💻 Recent Projects
+### 💻 Recent Work & Projects
 
-*   **CutLink:** Developing a modern web-based barbershop booking system, focusing on a premium UI and robust database functionality to manage Barberman or Staff schedules seamlessly.
-*   **Laundry Management System:** A database engineering project that automates complex table relations for transaction recording and data handling.
-*   **Mangovora:** Contributed to the branding, visual positioning, and packaging design for a PKM-K innovative product.
-*   **Tech Initiatives & Campus Events:** Actively involved in managing large-scale events like SEMNASTI and HI-TECH, as well as drafting technological proposals for a smart farming initiative.
+*   **CutLink:** A web-based barbershop booking system built to handle Barberman schedules and customer management efficiently.
+*   **Laundry Management System:** A database engineering project focused on complex table relations and automated transaction triggers.
+*   **Mangovora (PKM-K):** Handled the visual branding, logo, and packaging design for a student entrepreneurship product.
+*   **Tech Initiatives:** Event coordinator for campus tech events like SEMNASTI and HI-TECH, and co-drafted a smart farming technology proposal.
 
 ### 🛠️ Tech Stack & Tools
 
-*   **Languages & Frameworks:** JavaScript, TypeScript, PHP (Native & CI4), Go, Python, Java, C#, SQL
-*   **Databases:** MySQL, MariaDB
-*   **Design & Development Tools:** Figma, Unity, Godot
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
-📫 **Let's Connect!**
-I'm always open to project collaborations, discussions about database architecture, web development, or sharing thoughts on student organization and tech events.
+**Databases**  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+**Tools & Game Engines**  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+---
+
+📫 **Let's Connect!**  
+Feel free to reach out if you want to collaborate on a project, talk about database architectures, or discuss campus tech events.
 
 <!--
 **Jo9looo/Jo9looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
