@@ -5,7 +5,6 @@ I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. 
 ### 🚀 What I Do
 
 *   **Web & Software Development:** I build backend logic and frontend interfaces using JavaScript, TypeScript, PHP (Native & CI4), Go, Python, and Java.
-*   **Database Engineering:** I design relational databases, write stored procedures, and create ERDs using MySQL and MariaDB.
 *   **UI/UX & Design:** I use Figma for web prototyping, logo creation, and visual branding.
 *   **Game Development:** Currently exploring interactive logic and game mechanics using Unity, Godot, and C#.
 
@@ -44,11 +43,21 @@ Feel free to reach out if you want to collaborate on a project, talk about datab
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Iq.satriahtm)
 
-### 📈 My Coding Activity
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jo9looo&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ### 📊 My GitHub Stats
 ![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo9looo&theme=transparent)
+
+
+---
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jo9looo/jo9looo/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jo9looo/jo9looo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jo9looo/jo9looo/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 <!--
 **Jo9looo/Jo9looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
