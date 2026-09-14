@@ -49,6 +49,8 @@ Feel free to reach out if you want to collaborate on a project, talk about datab
 
 ---
 
+<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 ###
 
 <picture data-importer="pacman">
