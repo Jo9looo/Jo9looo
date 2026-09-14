@@ -16,6 +16,8 @@ I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. 
 *   **Mangovora (PKM-K):** Handled the visual branding, logo, and packaging design for a student entrepreneurship product.
 *   **Tech Initiatives:** Event coordinator for campus tech events like SEMNASTI and HI-TECH, and co-drafted a smart farming technology proposal.
 
+---
+
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Frameworks**  
@@ -42,13 +44,8 @@ Feel free to reach out if you want to collaborate on a project, talk about datab
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Iq.satriahtm)
 
-<br />
-<h3>📊 My GitHub Stats</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jo9looo&show_icons=true&theme=vision-friendly-dark&hide_border=false" alt="Jo9looo GitHub stats" />
-</a>
-<br />
-
+### 📊 My GitHub Stats
+![Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jo9looo&theme=dracula)
 
 <!--
 **Jo9looo/Jo9looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
