@@ -40,6 +40,8 @@ I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. 
 📫 **Let's Connect!**  
 Feel free to reach out if you want to collaborate on a project, talk about database architectures, or discuss campus tech events.
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Iq.satriahtm)
+
 <!--
 **Jo9looo/Jo9looo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
