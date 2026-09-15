@@ -10,7 +10,7 @@ I'm an Informatics student at Universitas Dian Nuswantoro (UDINUS) in Semarang. 
 
 ### 💻 Recent Work & Projects
 
-*   **CutLink:** A web-based barbershop booking system built to handle Barberman schedules and customer management efficiently.
+*   **Task Master:**Task Master is a web application I developed to track daily tasks and improve personal organization. The app includes two primary features: mobile notification alerts to ensure tasks aren't forgotten, and a categorization system that sorts tasks into three distinct tiers based on their upcoming deadlines."
 *   **Laundry Management System:** A database engineering project focused on complex table relations and automated transaction triggers.
 *   **Mangovora (PKM-K):** Handled the visual branding, logo, and packaging design for a student entrepreneurship product.
 *   **Tech Initiatives:** Event coordinator for campus tech events like SEMNASTI and HI-TECH, and co-drafted a smart farming technology proposal.
